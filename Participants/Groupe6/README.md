@@ -9,7 +9,7 @@ Veuillez coller ici vos liens vers votre gitHub
  - Ehrlich 			Axel               https://github.com/marceremus/AFPA/blob/master/Participants/Groupe6/README.md
  - Tauveron 		Loïc               https://github.com/Vashthestupid
  - Molinaro 		Edwina
- - Danglot 			Damien 
+ - Danglot 			Damien             https://github.com/VonRequiem
  - Lefebvre 		Guillaume 
  - Cédric 			Brasme 
  - Willebrouck 		Rémi            https://github.com/Willremi
